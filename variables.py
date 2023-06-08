@@ -11,3 +11,4 @@ HOLA SOY JAIME, TENGO 19 AÑOS Y SOY SOLTERO = True
 """
 #Utilizando format String
 print("Hola soy {}, tengo {} años y soltero = {}".format(name, age, is_single))
+print(f"Hola soy {name}, tengo {age} años y soltero = {is_single}")
